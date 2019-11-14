@@ -37,3 +37,12 @@ div{
   box-sizing: border-box;
   margin: 20px auto;
 }
+
+.main{
+  width: 100%;
+  display: inline-flex;
+  background-color: lightgrey;
+}
+.first, .second{
+  width: 50%;
+}
